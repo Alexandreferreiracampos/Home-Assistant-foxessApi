@@ -23,6 +23,8 @@ Link para gerar a token para a API https://www.foxesscloud.com/user/center
          serial_number: "Serial do inversor"
          name: "FoxESS"
 
+Após a finalização, realizar o reboot do Home Assistant
+
 ## Entidades fornecidas
 
         "Geração do Mês"
