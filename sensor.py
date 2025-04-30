@@ -15,7 +15,7 @@ def setup_platform(hass, config, add_entities, discovery_info=None):
     sensors = [
         FoxEssGenerationSensor(token, serial_number, name, "Geração do Mês", "month", "kWh"),
         FoxEssGenerationSensor(token, serial_number, name, "Geração do Dia", "today", "kWh"),
-        FoxEssFeedinSensor(token, serial_number, name, "Feed-in Power", "feedinPower", "kW"),
+        FoxEssFeedinSensor(token, serial_number, name, "Geração Atual", "feedinPower", "kW"),
     ]
     add_entities(sensors, True)
 

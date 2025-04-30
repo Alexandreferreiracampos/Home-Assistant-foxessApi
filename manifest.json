@@ -2,8 +2,8 @@
   "domain": "foxess",
   "name": "FoxESS Sensor",
   "version": "1.0.0",
-  "documentation": "https://github.com/seu-repo/foxess-homeassistant",
+  "documentation": "https://github.com/Alexandreferreiracampos/Home-Assistant-foxessApi/tree/main",
   "requirements": [],
-  "codeowners": ["@seu-usuario"],
+  "codeowners": ["@Alexandreferreiracampos"],
   "iot_class": "cloud_polling"
 }
