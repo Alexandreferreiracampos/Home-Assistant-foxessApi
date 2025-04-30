@@ -19,8 +19,8 @@ Link para gerar a token para a API https://www.foxesscloud.com/user/center
 
      sensor:
        - platform: foxess
-         token: seu token gerado pela API
-         serial_number: Serial do inversor
+         token: "seu token gerado pela API"
+         serial_number: "Serial do inversor"
          name: "FoxESS"
 
 ## Entidades fornecidas
